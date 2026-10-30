@@ -116,7 +116,7 @@ export default function Home() {
           </span>
           <p>
             One special person. So many beautiful wishes.<br />
-            Leave a little love for Bijaya to keep, always.
+            Dear Bijaya, here is a little love for you to keep, always.
           </p>
           <button className="primary" onClick={() => { setOpen(true); setError(''); }}>
             Leave a birthday wish <span><ArrowUpRight size={13} /></span>
